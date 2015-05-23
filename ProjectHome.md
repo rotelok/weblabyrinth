@@ -1,0 +1,1 @@
+WebLabyrinth is a simple tool that creates a maze of bogus web pages to confuse web scanners. It's main goal is to delay and occupy malicious scanners that scan websites in order for incident handlers to detected and respond to them before damage is done.
